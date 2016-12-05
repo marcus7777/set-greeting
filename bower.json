@@ -1,0 +1,14 @@
+{
+  "name": "set-greeting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "set-greeting.html",
+  "keywords": [
+    "polymer",
+    "web-components"
+  ],
+  "dependencies": {
+    "paper-input": "*",
+    "paper-button": "PolymerElements/paper-button#~1.0.14"
+  }
+}
